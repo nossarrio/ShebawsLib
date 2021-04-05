@@ -1,0 +1,9 @@
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\bin\Debug\netstandard2.0\ShebawsCoreLibrary.deps.json
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\bin\Debug\netstandard2.0\ShebawsCoreLibrary.dll
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\bin\Debug\netstandard2.0\ShebawsCoreLibrary.pdb
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\obj\Debug\netstandard2.0\ShebawsCoreLibrary.csprojAssemblyReference.cache
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\obj\Debug\netstandard2.0\ShebawsCoreLibrary.AssemblyInfoInputs.cache
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\obj\Debug\netstandard2.0\ShebawsCoreLibrary.AssemblyInfo.cs
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\obj\Debug\netstandard2.0\ShebawsCoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\obj\Debug\netstandard2.0\ShebawsCoreLibrary.dll
+C:\Users\folio\source\repos\ShebawsCore\ShebawsCoreLibrary\obj\Debug\netstandard2.0\ShebawsCoreLibrary.pdb

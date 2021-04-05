@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Oro/P9LFDwpbnWDR/Rh3vNbdDlipE/2zXxibYSGRW2CJ3DQXRbxytIdpf0Kxp2kE39dmIvY7elIoar8rHuteg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\folio\\source\\repos\\ShebawsCore\\ShebawsCoreLibrary\\ShebawsCoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\folio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\folio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
